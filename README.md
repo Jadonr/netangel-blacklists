@@ -2,7 +2,7 @@
 
 ## Blacklists
 
-- **porn** - Sites containing pornography and other sexual content
+- **porn** - 779,530 count - Sites containing pornography and other sexual content
 
 ## Where these lists come from
 
