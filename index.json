@@ -1,0 +1,14 @@
+[
+  {
+    name: "porn",
+    description: "Sites containing pornography and other sexual content.",
+    domain-count: 779528,
+    url-count: 66134
+  },
+  {
+    name: "lingerie",
+    description: "Sites for lingerie.",
+    domain-count: 52,
+    url-count: 5
+  }
+]
