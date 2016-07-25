@@ -3,7 +3,7 @@
 ## Blacklists
 
 - **porn** - Sites containing pornography and other sexual content
-  - *domains* - 779,530 count
+  - *domains* - 779,528 count
   - *urls* - 66,134 count
 - **lingerie** - Sites for lingerie
   - *domains* - 52 count
