@@ -14,6 +14,20 @@
     "url-count": 5
   },
   {
+    "name": "anti-porn",
+    "description": "Anti-pornography, web filters, and counseling sites.",
+    "type": "white",
+    "domain-count": 69,
+    "url-count": 0
+  },
+  {
+    "name": "safe",
+    "description": "Sites that are known to be safe.",
+    "type": "white",
+    "domain-count": 38,
+    "url-count": 0
+  },
+  {
     "name": "ss-google",
     "description": "Google domains for enforcing SafeSearch.",
     "type": "black",
