@@ -37,20 +37,22 @@
 - Alexandre Chevrier
 - Association Poitevine pour la Promotion des Logiciels Libres et de Linux, https://www.app3l.org
 - Barbagelata Pierre
-- Benjamin E. Nichols, http://www.squidblacklist.org
 - Benjamin Bellec
+- Benjamin E. Nichols, http://www.squidblacklist.org
 - Cedric Foll
+- Centre des Systèmes et Réseaux
 - Charles Collet
 - Christian Ornaghi
 - David Garroux
 - Deckert Florian
 - Dilain Laurent
 - Eric Jansen
+- Eric Terry
 - Francesco Mascaro
 - Gotzon Astondoa, http://www.wesify.com
-- Hervé Bienvenu
 - Hans Musil
 - Henrique Araujo
+- Hervé Bienvenu
 - IAE Pconline
 - Jago27
 - Jozef Skarba
@@ -68,13 +70,12 @@
 - Rick Matthews
 - Rogério Pinheiro Da Silva
 - Sean Riley
-- Sylvain Vincent
-- Sylvain Poidras
-- Symon Aked
-- Stéphanie Chevtchenko
 - SOFIA Informatique
+- Stéphanie Chevtchenko
+- Sylvain Poidras
+- Sylvain Vincent
+- Symon Aked
 - Todd Sieland-Peterson
-- Centre des Systèmes et Réseaux
 - Université Toulouse 1 Capitole, http://dsi.ut-capitole.fr/blacklists/index_en.php
 - Yann Cézard
 - Yann Guillemot
