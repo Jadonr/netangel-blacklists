@@ -30,28 +30,28 @@
   {
     "name": "ss-google",
     "description": "Google domains for enforcing SafeSearch.",
-    "type": "black",
+    "type": "safesearch",
     "domain-count": 194,
     "url-count": 0
   },
   {
     "name": "ss-youtube",
     "description": "YouTube domains for enforcing SafeSearch (Restricted Mode).",
-    "type": "black",
+    "type": "safesearch",
     "domain-count": 5,
     "url-count": 0
   },
   {
     "name": "ss-bing",
     "description": "Bing domains for enforcing SafeSearch.",
-    "type": "black",
+    "type": "safesearch",
     "domain-count": 1,
     "url-count": 0
   },
   {
     "name": "ss-yahoo",
     "description": "Yahoo domains for enforcing SafeSearch.",
-    "type": "black",
+    "type": "safesearch",
     "domain-count": 1,
     "url-count": 0
   }
