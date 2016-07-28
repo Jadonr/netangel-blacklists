@@ -8,6 +8,14 @@
 - **lingerie** - Sites for lingerie
   - *domains* - 52 count
   - *urls* - 5 count
+- **ss-google** - Google domains for enforcing SafeSearch
+  - *domains* - 194 count
+- **ss-youtube** - YouTube domains for enforcing SafeSearch (Restricted Mode)
+  - *domains* - 5 count
+- **ss-bing** - Bing domains for enforcing SafeSearch
+  - *domains* - 1 count
+- **ss-yahoo** - Yahoo domains for enforcing SafeSearch
+  - *domains* - 1 count
 
 ## Where these lists come from
 
