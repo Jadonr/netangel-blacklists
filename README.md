@@ -20,7 +20,7 @@
 
 - **ss-google** - Google domains for enforcing SafeSearch
   - *domains* - 194 count
-- **ss-youtube** - YouTube domains for enforcing SafeSearch (Restricted Mode)
+- **ss-youtube** - YouTube domains for enforcing Restricted Mode
   - *domains* - 5 count
 - **ss-bing** - Bing domains for enforcing SafeSearch
   - *domains* - 1 count
