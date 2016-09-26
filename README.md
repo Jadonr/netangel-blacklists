@@ -3,7 +3,7 @@
 ## Blacklists
 
 - **porn** - Sites containing pornography and other sexual content
-  - *domains* - 779,528 count
+  - *domains* - 790,496 count
   - *urls* - 66,134 count
 - **lingerie** - Sites for lingerie
   - *domains* - 52 count
@@ -12,14 +12,14 @@
 ## Whitelists
 
 - **anti-porn** - Anti-pornography, web filters, and counseling sites
-  - *domains* - 69 count
+  - *domains* - 72 count
 - **safe** - Sites that are known to be safe
-  - *domains* - 38 count
+  - *domains* - 45 count
 
 ## SafeSearch
 
 - **ss-google** - Google domains for enforcing SafeSearch
-  - *domains* - 194 count
+  - *domains* - 193 count
 - **ss-youtube** - YouTube domains for enforcing Restricted Mode
   - *domains* - 5 count
 - **ss-bing** - Bing domains for enforcing SafeSearch

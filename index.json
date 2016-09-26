@@ -3,7 +3,7 @@
     "name": "porn",
     "description": "Sites containing pornography and other sexual content.",
     "type": "black",
-    "domain-count": 779528,
+    "domain-count": 790496,
     "url-count": 66134
   },
   {
@@ -17,21 +17,21 @@
     "name": "anti-porn",
     "description": "Anti-pornography, web filters, and counseling sites.",
     "type": "white",
-    "domain-count": 69,
+    "domain-count": 72,
     "url-count": 0
   },
   {
     "name": "safe",
     "description": "Sites that are known to be safe.",
     "type": "white",
-    "domain-count": 38,
+    "domain-count": 45,
     "url-count": 0
   },
   {
     "name": "ss-google",
     "description": "Google domains for enforcing SafeSearch.",
     "type": "safesearch",
-    "domain-count": 194,
+    "domain-count": 193,
     "url-count": 0
   },
   {
