@@ -3,7 +3,7 @@
 ## Blacklists
 
 - **porn** - Sites containing pornography and other sexual content
-  - *domains* - 831,888 count
+  - *domains* - 700,036 count
   - *urls* - 66,134 count
 - **lingerie** - Sites for lingerie
   - *domains* - 52 count
@@ -46,6 +46,7 @@
 - David Garroux
 - Deckert Florian
 - Dilain Laurent
+- DMOZ, http://www.dmoz.org
 - Eric Jansen
 - Eric Terry
 - Francesco Mascaro
