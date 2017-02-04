@@ -3,29 +3,36 @@
 ## Blacklists
 
 - **porn** - Sites containing pornography and other sexual content
-  - *domains* - 700,036 count
-  - *urls* - 66,134 count
 - **lingerie** - Sites for lingerie
-  - *domains* - 52 count
-  - *urls* - 5 count
 
 ## Whitelists
 
 - **anti-porn** - Anti-pornography, web filters, and counseling sites
-  - *domains* - 72 count
 - **safe** - Sites that are known to be safe
-  - *domains* - 45 count
 
 ## SafeSearch
 
 - **ss-google** - Google domains for enforcing SafeSearch
-  - *domains* - 193 count
 - **ss-youtube** - YouTube domains for enforcing Restricted Mode
-  - *domains* - 5 count
 - **ss-bing** - Bing domains for enforcing SafeSearch
-  - *domains* - 1 count
 - **ss-yahoo** - Yahoo domains for enforcing SafeSearch
-  - *domains* - 1 count
+
+## Counts
+
+    Count | Blacklist
+    -----:| ---------
+       72 | anti-porn/domains
+      884 | lingerie/domains
+      154 | lingerie/urls
+1,449,871 | porn/domains
+  601,491 | porn/urls
+       52 | safe/domains
+        1 | safe/urls
+        1 | ss-bing/domains
+      193 | ss-google/domains
+        1 | ss-yahoo/domains
+        5 | ss-youtube/domains
+2,052,725 | TOTAL COUNT
 
 ## Where these lists come from
 
@@ -55,6 +62,7 @@
 - Henrique Araujo
 - Hervé Bienvenu
 - IAE Pconline
+- Jadonr
 - Jago27
 - Jozef Skarba
 - Kris Carlier
