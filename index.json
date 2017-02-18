@@ -3,15 +3,15 @@
     "name": "porn",
     "description": "Sites containing pornography and other sexual content.",
     "type": "black",
-    "domain-count": 700036,
-    "url-count": 66134
+    "domain-count": 1449873,
+    "url-count": 601490
   },
   {
     "name": "lingerie",
     "description": "Sites for lingerie.",
     "type": "black",
-    "domain-count": 52,
-    "url-count": 5
+    "domain-count": 883,
+    "url-count": 153
   },
   {
     "name": "anti-porn",
@@ -24,7 +24,7 @@
     "name": "safe",
     "description": "Sites that are known to be safe.",
     "type": "white",
-    "domain-count": 45,
+    "domain-count": 51,
     "url-count": 0
   },
   {

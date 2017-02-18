@@ -22,17 +22,16 @@
     Count | Blacklist
     -----:| ---------
        72 | anti-porn/domains
-      884 | lingerie/domains
-      154 | lingerie/urls
-1,449,871 | porn/domains
-  601,491 | porn/urls
-       52 | safe/domains
-        1 | safe/urls
+      883 | lingerie/domains
+      153 | lingerie/urls
+1,449,873 | porn/domains
+  601,490 | porn/urls
+       51 | safe/domains
         1 | ss-bing/domains
       193 | ss-google/domains
         1 | ss-yahoo/domains
         5 | ss-youtube/domains
-2,052,725 | TOTAL COUNT
+2,052,722 | TOTAL COUNT
 
 ## Where these lists come from
 
