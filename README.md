@@ -24,14 +24,14 @@
        72 | anti-porn/domains
       883 | lingerie/domains
       153 | lingerie/urls
-1,449,873 | porn/domains
-  601,490 | porn/urls
+1,449,875 | porn/domains
+  587,026 | porn/urls
        51 | safe/domains
         1 | ss-bing/domains
       193 | ss-google/domains
         1 | ss-yahoo/domains
         5 | ss-youtube/domains
-2,052,722 | TOTAL COUNT
+2,038,260 | TOTAL COUNT
 
 ## Where these lists come from
 
